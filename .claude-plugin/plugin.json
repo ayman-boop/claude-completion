@@ -1,0 +1,9 @@
+{
+  "name": "turn-runner",
+  "version": "0.1.0",
+  "description": "A little runner that races across a floating, always-on-top track while Claude Code works and crosses the finish line (with a water-drop sound) when the turn ends",
+  "author": { "name": "Ayman" },
+  "license": "MIT",
+  "repository": "https://github.com/ayman-boop/claude-completion",
+  "types": "./types/index.d.ts"
+}

@@ -1,0 +1,5 @@
+{
+  "name": "claude-completion",
+  "owner": { "name": "Ayman" },
+  "plugins": [{ "name": "turn-runner", "source": "./" }]
+}
